@@ -1,5 +1,4 @@
 # Predicting-the-risk-of-Heart-disease-using-Logistic-regression
-# Heart Disease Prediction
 
 ## Project overview
 This project focuses on predicting heart disease using the **Logistic Regression** algorithm in R.  
