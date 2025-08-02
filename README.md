@@ -48,6 +48,6 @@ The dataset contains 918 patient records with demographic, clinical, and lifesty
   - Sex
   - Fasting Blood Sugar
   - ST Slope
-  - Performance Metrics
+
 ## Conclusion:
 The logistic regression model shows high accuracy and performs well for both classes, making it an effective tool for estimating the risk of heart disease.
