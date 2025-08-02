@@ -13,7 +13,7 @@ The dataset contains 918 patient records with demographic, clinical, and lifesty
 -	Clinical measurements: Resting BP, Cholesterol, Max Heart Rate, Oldpeak
 -	Categorical health indicators: Chest Pain Type, Resting ECG, Exercise Induced Angina, Fasting Blood Sugar, ST Slope
 -	Target: Heart Disease (0 = No, 1 = Yes)
--	
+
 ## Steps Performed
 1. **Data Import & Cleaning**
    - Handled missing values using **KNN imputation**.
